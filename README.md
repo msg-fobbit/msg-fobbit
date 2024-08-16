@@ -1,4 +1,12 @@
-## Hi there 👋
+<h2> Hi, I'm msg-fobbit! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="cat"></h2>
+
+- 🎓 I'm studying Computer Science and Technology as a third-year student.  
+- 👀 My focus is on frontend development, data visualization, and UI design.  
+- 💻 I'm currently learning **Uniapp**, **React**, and **Node.js**.  
+- ✍️ I regularly update my [blog](https://blog.csdn.net/qq_62047176?type=blog) on CSDN with articles about my learning journey.  
+- 🌱 I'm passionate about technology and constantly exploring new skills to improve my programming expertise.  
+- 📫 You can reach me at [2387778247@qq.com].
+
 
 <!--
 **msg-fobbit/msg-fobbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
