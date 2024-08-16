@@ -22,8 +22,8 @@
 
 ### Frontend Frameworks and Libraries
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
-![Vuex](https://img.shields.io/badge/-Vuex-black?style=flat-square&logo=vuex.js)
-![Pinia](https://img.shields.io/badge/-Pinia-black?style=flat-square&logo=pinia.js)
+![Vuex](https://img.shields.io/badge/-Vuex-black?style=flat-square&logo=vuex)
+![Pinia](https://img.shields.io/badge/-Pinia-black?style=flat-square&logo=pinia)
 ![Vant](https://img.shields.io/badge/-Vant-black?style=flat-square&logo=vant2)
 ![ElementUI](https://img.shields.io/badge/-ElementUI-black?style=flat-square&logo=elementui)
 ![ECharts](https://img.shields.io/badge/-ECharts-black?style=flat-square&logo=apache-echarts)
@@ -52,7 +52,7 @@
 ![CLion](https://img.shields.io/badge/-CLion-black?style=flat-square&logo=clion)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat-square&logo=visualstudio)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat-square&logo=visual-studio)
 
 ### Containerization
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
