@@ -6,6 +6,7 @@
 - ✍️ I regularly update my [blog](https://blog.csdn.net/qq_62047176?type=blog) on CSDN with articles about my learning journey.  
 - 🌱 I'm passionate about technology and constantly exploring new skills to improve my programming expertise.  
 - 📫 You can reach me at [2387778247@qq.com].
+- 🚀 I will soon be transferring my projects and records to GitHub.
 
 
 <!--
